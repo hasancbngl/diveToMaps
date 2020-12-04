@@ -4,15 +4,12 @@
 
     To get one, follow this link, follow the directions and press "Create" at the end:
 
-    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=F1:7B:A9:95:7C:A6:29:7D:93:54:E1:64:01:0F:0E:1F:8A:FB:E3:EA%3Bcom.cobanogluhasan.divetomaps
-
     You can also add your credentials to an existing key, using these values:
 
     Package name:
     com.cobanogluhasan.divetomaps
 
     SHA-1 certificate fingerprint:
-    F1:7B:A9:95:7C:A6:29:7D:93:54:E1:64:01:0F:0E:1F:8A:FB:E3:EA
 
     Alternatively, follow the directions here:
     https://developers.google.com/maps/documentation/android/start#get-key
